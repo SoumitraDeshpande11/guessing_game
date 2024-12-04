@@ -1,5 +1,3 @@
-# guessing_game.py
-
 import random
 
 def guessing_game():
